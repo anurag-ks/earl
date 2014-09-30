@@ -1,4 +1,10 @@
 earl
 ====
 
-A simple python port for the Google's URL shortener API.
+A simple python port(unofficial) for the Google's URL shortener API.
+
+----
+Install :
+----
+
+      sudo python setup.py install
